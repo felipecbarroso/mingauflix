@@ -1,0 +1,138 @@
+{
+  "categorias": [
+    {
+      "titulo": "Top Lane",
+      "cor": "#6BD1FG",
+      "link_extra": {
+        "text": "Melhores top laners dos mundiais de LoL"
+      },
+      "videos": [
+        {
+          "titulo": "Worlds 2019",
+          "url": "https://www.youtube.com/watch?v=i1IKnWDecwA"
+        },
+        {
+          "titulo": "Melhores top laners mundial 2019",
+          "url": "https://www.youtube.com/watch?v=jZhTBd3rreE"
+        },
+        {
+          "titulo": "Melhores top laners mundial 2018",
+          "url": "https://www.youtube.com/watch?v=YH9W-70LFzI"
+        },
+        {
+          "titulo": "Melhores top laners mundial 2017",
+          "url": "https://www.youtube.com/watch?v=evKtlTJf6Go"
+        },
+        {
+          "titulo": "Melhores top laners mundial 2016",
+          "url": "https://www.youtube.com/watch?v=PEaKpf78iu0"
+        },
+        {
+          "titulo": "Melhores top laners mundial 2015",
+          "url": "https://www.youtube.com/watch?v=kQ-Hk3keM2U"
+        }
+      ]
+    },
+    {
+      "titulo": "Jungle",
+      "cor": "#006400",
+      "link_extra": {
+        "text": "Melhores junglers dos mundiais de LoL"
+      },
+      "videos": [
+        {
+          "titulo": "Melhores junglers mundial 2019",
+          "url": "https://www.youtube.com/watch?v=Iwd7lYqMTs4"
+        },
+        {
+          "titulo": "Melhores junglers mundial 2018",
+          "url": "https://www.youtube.com/watch?v=sBOCbp8AiXs"
+        },
+
+        {
+          "titulo": "Melhores junglers mundial 2016",
+          "url": "https://www.youtube.com/watch?v=Q_QgHAXgZ8U"
+        }
+      ]
+    },
+    {
+      "titulo": "Mid lane",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Melhores mid laners dos mundiais de LoL"
+      },
+      "videos": [
+        {
+          "titulo": "Melhores mid laners do mundial de 2019",
+          "url": "https://www.youtube.com/watch?v=rjeaZGZ-6sI"
+        },
+        {
+          "titulo": "Melhores mid laners do mundial de 2018",
+          "url": "https://www.youtube.com/watch?v=nI3kpRVQZLM"
+        },
+        {
+          "titulo": "Melhores mid laners do mundial de 2017",
+          "url": "https://www.youtube.com/watch?v=ipFKWTjurSE"
+        },
+        {
+          "titulo": "Melhores mid laners do mundial de 2016",
+          "url": "https://www.youtube.com/watch?v=6owNAjUqSak"
+        }
+      ]
+    },
+    {
+      "titulo": "AdCarry",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Melhores adcs dos mundiais de LoL"
+    },
+      "videos": [
+        {
+          "titulo": "Melhores adcs do mundial de 2019",
+          "url": "https://www.youtube.com/watch?v=aQWVYs_qrWI"
+        },
+        {
+          "titulo": "Melhores adcs do mundial de 2018",
+          "url": "https://www.youtube.com/watch?v=IQ35o1Q1L1g"
+        },
+        {
+          "titulo": "Melhores adcs do mundial de 2017",
+          "url": "https://www.youtube.com/watch?v=vR4cI_BAV_Y"
+        },
+        {
+          "titulo": "Melhores adcs do mundial de 2016",
+          "url": "https://www.youtube.com/watch?v=5uvyYRlIZ3s"
+        }
+      ]
+    },
+    {
+      "titulo": "Suporte",
+      "cor": "red",
+      "link_extra": {
+        "text": "Melhores suportes dos mundiais de LoL"
+      },
+      "videos": [
+        {
+          "titulo": "Melhores suportes mundial 2019",
+          "url": "https://www.youtube.com/watch?v=0XpF2lVliSc"
+        },
+        {
+          "titulo": "Melhores suportes mundial 2018",
+          "url": "https://www.youtube.com/watch?v=jVDsJ3fRM9M"
+        },
+        {
+          "titulo": "Melhores suportes mundial 2017",
+          "url": "https://www.youtube.com/watch?v=sZtvNFDGJls"
+        },
+        {
+          "titulo": "Melhores suportes mundial 2016",
+          "url": "https://www.youtube.com/watch?v=hQir1KVSTrw"
+        }
+      ]
+    },
+    {
+      "videos": [  
+      ]
+    }
+  ]
+}
