@@ -33,7 +33,7 @@ export const ExtraLink = styled.a`
   }
 `;
 
-export const VideoCardList = styled.ul`
+export const Slider = styled.ul`
   margin: 0;
   padding-left: 0;
   padding-bottom: 32px;
